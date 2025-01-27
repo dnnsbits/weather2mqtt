@@ -122,6 +122,10 @@ Das Script ruft folgende Wetterdaten ab
 
 * die Topics beginnen mit einer eigenen ID (sollte lokal angepasst werden, damit es eindeutig bleibt)
 
+Status
+
+* Aktualisierungszeit __ac120002/weather/status/time__
+
 aktuell
 
 * Wochentag __ac120002/weather/current/weekday__
