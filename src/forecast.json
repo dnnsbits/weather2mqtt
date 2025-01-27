@@ -1,0 +1,68 @@
+{
+  "latitude": 52.36,
+  "longitude": 13.32,
+  "generationtime_ms": 0.7330179214477539,
+  "utc_offset_seconds": 3600,
+  "timezone": "Europe/Berlin",
+  "timezone_abbreviation": "CET",
+  "elevation": 44,
+  "current_weather": {
+    "temperature": 5.3,
+    "windspeed": 17.6,
+    "winddirection": 191,
+    "weathercode": 3,
+    "time": "2023-03-12T15:00"
+  },
+  "daily_units": {
+    "time": "iso8601",
+    "weathercode": "wmo code",
+    "temperature_2m_max": "°C",
+    "temperature_2m_min": "°C",
+    "precipitation_sum": "mm",
+    "precipitation_hours": "h",
+    "windspeed_10m_max": "km/h",
+    "winddirection_10m_dominant": "°"
+  },
+  "daily": {
+    "time": [
+      "2023-03-12",
+      "2023-03-13",
+      "2023-03-14"
+    ],
+    "weathercode": [
+      61,
+      80,
+      80
+    ],
+    "temperature_2m_max": [
+      5.4,
+      13.3,
+      13.4
+    ],
+    "temperature_2m_min": [
+      -1,
+      4.6,
+      2.5
+    ],
+    "precipitation_sum": [
+      1.6,
+      4.9,
+      3.7
+    ],
+    "precipitation_hours": [
+      6,
+      8,
+      5
+    ],
+    "windspeed_10m_max": [
+      18.3,
+      27.3,
+      28
+    ],
+    "winddirection_10m_dominant": [
+      223,
+      209,
+      237
+    ]
+  }
+}
